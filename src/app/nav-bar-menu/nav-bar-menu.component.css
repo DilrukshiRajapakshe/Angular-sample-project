@@ -1,0 +1,7 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+a{
+  color: white;
+}
+b{
+  margin-left: 5px;
+}
